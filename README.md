@@ -1,4 +1,4 @@
-# 6-DOF Robotic Hand Teleoperation (ROS 2 + MediaPipe + micro-ROS) 🦾
+# 6-DOF Robotic Hand Teleoperation (ROS 2 + MediaPipe + micro-ROS) 
 
 ![ROS 2](https://img.shields.io/badge/ROS%202-Jazzy-blue)
 ![Python](https://img.shields.io/badge/Python-3.12-yellow)

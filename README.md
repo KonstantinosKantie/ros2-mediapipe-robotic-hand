@@ -61,7 +61,7 @@ Real-time teleoperation of a **6-DOF 3D-printed robotic hand** driven by webcam 
 
 ## 🛠️ Mechanical Design & Credits
 
-* **Base 3D Model:** The 3D-printed mechanical parts are based on an open-source robotic hand design (*[insert link to original creator/model here]](https://www.thingiverse.com/thing:2269115)*).
+* **Base 3D Model:** The 3D-printed mechanical parts are based on an open-source robotic hand design (*(https://www.thingiverse.com/thing:2269115)*).
 * **Custom Hardware Modification:** Modified the original 3D-printed parts to accommodate an **additional (5th) finger servo**, which was not supported in the stock assembly, enabling independent actuation alongside thumb opposition.
 
 ---
